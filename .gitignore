@@ -16,3 +16,5 @@ env/
 # Large or sensitive files
 *.log
 .database.sqlite
+
+game_state.jsonl
